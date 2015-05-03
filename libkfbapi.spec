@@ -1,7 +1,7 @@
 Summary:	Library to access to Facebook services
 Name:		libkfbapi
 Version:	1.0
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Development/Libraries
 URL:		http://projects.kde.org/libkfbapi
